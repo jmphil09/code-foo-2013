@@ -1,0 +1,19 @@
+INDEX VERSION 1.126+C:\Users\fligh_000\Desktop\CodeFoo\code-foo-2013\.metadata\.plugins\org.eclipse.jdt.core
+2072321789.index
+120298671.index
+4186490076.index
+3772832189.index
+230597583.index
+3630947334.index
+604734172.index
+1116014601.index
+3527988662.index
+1610115737.index
+737212395.index
+3273887247.index
+770915797.index
+4005135797.index
+2939333702.index
+2221557046.index
+1630854588.index
+1022128690.index

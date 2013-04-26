@@ -1,0 +1,3 @@
+object highscore_sort {
+  println("Welcome to the Scala worksheet")
+}
